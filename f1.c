@@ -4,3 +4,7 @@ main()
 	printf("and the presence of absense\n");
 	printf("Website not found!\n");
 }
+funktion()
+{
+	printf("milo\n");
+}
