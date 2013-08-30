@@ -6,5 +6,5 @@ main()
 }
 funktion()
 {
-	printf("milo\n");
+	printf("milo mag Git!\n");
 }
